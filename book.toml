@@ -3,3 +3,8 @@ title = "Aijun Huang"
 authors = ["Yu Du"]
 language = "en"
 description = "Aijun Huang's personal website"
+
+
+[output.html]
+default-theme = "light"
+fold = { enable = true, level = 2 } 
