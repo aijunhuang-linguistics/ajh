@@ -1,5 +1,5 @@
 [book]
 title = "Aijun Huang"
-authors = []
+authors = ["Yu Du"]
 language = "en"
-site-url = "https://aijunhuang-linguistics.github.io/ajh/"
+description = "Aijun Huang's personal website"
